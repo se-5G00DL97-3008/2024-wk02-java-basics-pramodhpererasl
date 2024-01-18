@@ -7,7 +7,7 @@ public class E08{
         boolean checkNum = true;
 
         while (checkNum) {
-            System.out.println("Enter a number (0 to quit):");
+            System.out.println("Give a number (0 to quit):");
             int num = scanner.nextInt();
 
             if (num==0) {
